@@ -1,0 +1,9 @@
+/* BEGIN: Footer */
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    min-height: 100vh;
+}
+/* END: Footer */
